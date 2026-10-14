@@ -1,0 +1,62 @@
+# Vannam Veerabadra Sai - Personal project
+# Food Munch Website 
+
+## About the Project
+
+Food Munch is a responsive food website created using HTML, CSS, Bootstrap, and JavaScript. It displays food menu options and provides information about food services, delivery, and payment methods.
+
+This project was developed as a front-end web development project for learning and portfolio purposes.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 4
+- JavaScript
+- Font Awesome
+- Relevant images
+
+## Project Structure
+
+The project contains three main files:
+
+- `index.html` — contains the structure and content of the website.
+- `style.css` — controls the colours, layout, spacing, and overall design.
+- `app.js` — handles interactive features and smooth scrolling.
+
+## Features
+
+- Responsive navigation bar
+- Food menu with images
+- Food service and healthy food sections
+- Delivery and payment information
+- Interactive gift pop-up
+- Social media links
+- Navigation to different website sections
+- Responsive design for desktop and mobile screens
+
+## How to Run the Project
+
+1. Download or copy the project files to your computer.
+2. Open the project folder in Visual Studio Code.
+3. Make sure `index.html`, `style.css`, and `app.js` are in the same folder.
+4. Open `index.html` using the Live Server extension.
+5. The website will open in your browser.
+
+An internet connection is needed to load the external images and online libraries.
+
+## Project Limitations
+
+This is a front-end demonstration website. It does not support real food ordering, online payments, or order tracking. The social media links are sample links.
+
+## Future Improvements
+
+- Add a working food ordering system.
+- Add a shopping cart.
+- Connect a payment gateway.
+- Add customer login and registration.
+- Connect the website to a backend and database.
+
+## Author
+
+Created as a front-end web development project using HTML, CSS, Bootstrap, and JavaScript.
